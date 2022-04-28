@@ -1,5 +1,8 @@
-# git-for-windows-e-hyper
+## Automação de testes web com Cypress
 Instalação do Git for Windows, habilitando comandos no terminal Hyper.
+
+-----------------------------------------
+
  - [Git for Windows](https://gitforwindows.org/) e [Hyper](https://hyper.is/): Após a instalação de ambos, vamos integrar o Hyper com o Git Bash:
     - execute o Hyper, acesse o *menu superior esquerdo > Edit > Preferences*, altere as linhas `fontSize: 12,`, `shell: '',`, `shellArgs: ['--login'],` e `env: {},`, respectivamente, para:
 
