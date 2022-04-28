@@ -1,4 +1,4 @@
-## Automação de testes web com Cypress
+## Git for Windows e Hyper
 Instalação do Git for Windows, habilitando comandos no terminal Hyper.
 
 -----------------------------------------
