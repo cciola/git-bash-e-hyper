@@ -3,7 +3,8 @@ Instalação do Git for Windows, habilitando comandos no terminal Hyper.
 
 -----------------------------------------
 
- - [Git for Windows](https://gitforwindows.org/) e [Hyper](https://hyper.is/): Após a instalação de ambos, vamos integrar o Hyper com o Git Bash:
+ - [Git for Windows](https://gitforwindows.org/) e [Hyper](https://hyper.is/): Na instalação do Git, na tela **Configuring the terminal emulator to use with Git Bash**, selecione a opção **Use Windows' default console window**. As demais opções podem ficar como está.
+    - Após a instalação do Git e do Hyper, vamos integrar o Hyper com o Git Bash:
     - execute o Hyper, acesse o *menu superior esquerdo > Edit > Preferences*, altere as linhas `fontSize: 12,`, `shell: '',`, `shellArgs: ['--login'],` e `env: {},`, respectivamente, para:
 
       ```
