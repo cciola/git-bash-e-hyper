@@ -19,6 +19,4 @@ Após configurar, salve, feche e abra o Hyper novamente. As configurações do H
 
 Instale o plugin `hyper i hyperpower`, feche e abra o Hyper para concluir a instalação do plugin. Este plugin instala um efeito que exibe um efeito ao digitar os comandos.
 
-<img width="510" height="166" alt="image" src="https://github.com/user-attachments/assets/609775c8-55f0-47ac-80af-64dabedd27b8" />
-
-
+<img width="507" height="134" alt="image" src="https://github.com/user-attachments/assets/0abebf49-224c-4f98-8ab1-e9acdcd28c62" />
