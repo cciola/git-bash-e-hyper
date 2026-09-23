@@ -1,4 +1,4 @@
-## Git for Windows e Hyper
+## Git Bash e Hyper
 Instalação do **Git for Windows**, habilitando comandos no terminal **Hyper**.
 
  * [Git for Windows](https://gitforwindows.org/)
