@@ -17,6 +17,6 @@ env: { 'TERM':'cygwin' },
 
 Após configurar, salve, feche e abra o Hyper novamente. As configurações do Hyper serão visualizadas, apresentando o Git Bash integrado. Para acessar o `C:/`, diferentemente do cmder, informamos `cd /c/`.
 
-Instale o plugin `hyper i hyperpower`, feche e abra o Hyper para concluir a instalação do plugin. Este plugin instala um efeito que exibe um efeito ao digitar os comandos.
+Instale o plugin `hyper i hyperpower`, feche e abra o Hyper para concluir a instalação do plugin. Este plugin faz com que seja exibido um efeito no cursor ao digitar os comandos.
 
 <img width="507" height="134" alt="image" src="https://github.com/user-attachments/assets/0abebf49-224c-4f98-8ab1-e9acdcd28c62" />
